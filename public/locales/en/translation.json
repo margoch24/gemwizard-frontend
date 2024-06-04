@@ -1,0 +1,193 @@
+{
+  "headerButton": "Contact GemWiz",
+  "supportChatButton": "Get help with your purchase",
+  "landingSection": {
+    "subtitle": "Get the equally stunning engagement ring for less",
+    "description": "We provide detailed search and compare source to help you purchase the best jewelry from our trustful vendors.",
+    "button": "Find your Diamond",
+    "titlePart1": "Diamond stores",
+    "titlePart2": "inflate",
+    "titleBold": "prices,",
+    "titlePart3": "",
+    "titleCrossed": "not beauty."
+  },
+  "statisticsSection": {
+    "subtitle": "Statistics",
+    "title": "Don't",
+    "titleBold": "overpay",
+    "description": "Our research shows that 90% of buyers overpay for their diamonds as much as 30%.",
+    "secondDescription": "This equals to 1500 Euro on 5000 Euro diamond.",
+    "buton": "Get help with your purchase"
+  },
+  "comparisonSection": {
+    "subtitle": "Compare at a glance",
+    "title": "See how much you can",
+    "titleBold": "save",
+    "tableHead": {
+      "features": "Features",
+      "retail": "Ring in retail"
+    },
+    "tableBody": {
+      "carats": "Carats",
+      "color": "Color",
+      "cut": "Cut",
+      "clarity": "Clarity",
+      "certificate": "Certificate",
+      "price": "Price"
+    }
+  },
+  "reviewsSection": {
+    "subtitle": "Our reviews",
+    "titlePart1": "User wallets",
+    "titlePart2": "us",
+    "titleBold": "love",
+    "reviewCard": {
+      "savings": "Saved",
+      "age": ""
+    }
+  },
+  "footerSection": {
+    "footerHeading": {
+      "titlePart1": "Get the equally stunning",
+      "titlePart2": "engagement ring",
+      "titleBold": "for less",
+      "button": "Contact GemWiz"
+    }
+  },
+  "footerLinksSection": {
+    "contacts": "Contacts"
+  },
+  "pricingSection": {
+    "title": "Start saving",
+    "billinCycles": {
+      "forever": "Forever",
+      "monthly": "Per month",
+      "oneOffFee": "One-off fee"
+    },
+    "buttonTitles": {
+      "free": "Try for free",
+      "paid": "Start with"
+    }
+  },
+  "inquiryForm": {
+    "titles": {
+      "title": "Contact Us",
+      "subtitle": "If You have any queries kindly take a moment to fill up this form, Our representatives will contact you shortly"
+    },
+    "form": {
+      "name": {
+        "label": "Name",
+        "placeholder": "Enter your Name"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "Enter your Email"
+      },
+      "phoneNumber": {
+        "label": "Phone Number",
+        "placeholder": "Enter your Phone Number"
+      },
+      "message": {
+        "label": "Message",
+        "placeholder": "Your message"
+      },
+      "buttonTitle": "Send"
+    }
+  },
+  "validationErrorMessages": {
+    "fieldRequired": "Field is required",
+    "validEmailRequired": "Please enter valid email address"
+  },
+  "routerPathsTitles": {
+    "home": "Home",
+    "pricing": "Pricing",
+    "searchDiamonds": "Search diamonds",
+    "contactUs": "Contact us",
+    "company": "Company",
+    "support": "Support",
+    "privacyPolicy": "Privacy Policy",
+    "trustPage": "Trust Page"
+  },
+  "errorsPages": {
+    "404": {
+      "title": "Oops!",
+      "subtitle": "We can't seem to find the page you're looking for",
+      "description": "Status code:",
+      "spanDescription": "404"
+    },
+    "500": {
+      "title": "Something went wrong",
+      "subtitle": "We keep track of these errors but feel free to contact us if refreshing doesn't fix things",
+      "description": "Status code:",
+      "spanDescription": "500"
+    }
+  },
+  "diamondPage": {
+    "diamondNotFound": {
+      "title": "Diamond not found",
+      "subtitle": "We are sorry, but the diamond you are looking for could not be found. You can try searching our database by clicking on the button below."
+    },
+    "diamondDetailsSection": {
+      "title": "Diamond Details",
+      "detailsBlocksTitles": {
+        "reportDetail": "Report Details",
+        "dimensions": "Dimensions",
+        "proportions": "Proportions",
+        "characteristics": "Characteristics",
+        "detailedProperties": "Detailed Properties"
+      }
+    },
+    "mainSection": {
+      "toggleButtonTitle": "Set Price Alert",
+      "shippingDetails": {
+        "diamondReturn": "WizGem offers 30 Days returns on this diamond",
+        "shipping": "Free, secure shipping",
+        "warranty": "Lifetime warranty",
+        "finance": "Financing options"
+      },
+      "mainDetails": {
+        "interactiveCertificate": "See interactive certificate"
+      },
+      "buttonTitle": "See at",
+      "seller": "the seller"
+    }
+  },
+  "diamondProperies": {
+    "certLaboratory": "Certificate Laboratory",
+    "certificateDate": "Certificate Date",
+    "reportNumber": "CIA Report Number",
+    "lengthWidthRatio": "Length-to-Width Ratio",
+    "measurements": "Diamond Measurements",
+    "carat": "Carat",
+    "visualCarat": "Visual Carat",
+    "tablePercentage": "Table Percentage",
+    "depthPercentage": "Depth Percentage",
+    "culet": "Culet",
+    "pavilionDepthPercentage": "Pavilion Depth Percentage",
+    "pavilionAngle": "Pavilion Angle",
+    "crownHeightPercentage": "Crown Height Percentage",
+    "crownAngle": "Crown Angle",
+    "lowerHalfPercentage": "Lower Half Percentage",
+    "starLengthPercentage": "Star Length Percentage",
+    "girdlePercentage": "Girdle Percentage",
+    "shape": "Shape",
+    "color": "Color",
+    "clarity": "Clarity",
+    "fluorescence": "Fluorescence",
+    "symmetry": "Symmetry",
+    "polish": "Polish",
+    "cutGrade": "Cut Grade",
+    "cutScore": "Cut Score",
+    "clarityCharacteristics": "Clarity Characteristics",
+    "inscription": "Inscription",
+    "comments": "Comments",
+    "fairPrice": "Fair Price",
+    "seller": "Seller",
+    "estimateRange": "Estimate Range",
+    "priceDetails": "Price Details"
+  },
+  "diamondTypesTitles": {
+    "labCreated": "Lab created",
+    "natural": "Natural"
+  }
+}

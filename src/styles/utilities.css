@@ -1,0 +1,27 @@
+/* Styled MultiRangeSlider */
+.multi-range-slider .bar .bar-inner,
+.multi-range-slider .bar .bar-left,
+.multi-range-slider .bar .bar-right {
+  box-shadow: none;
+}
+
+.multi-range-slider .bar .bar-left {
+  padding: 2px 0;
+}
+
+.multi-range-slider .thumb::before {
+  width: 16px;
+  height: 16px;
+  box-shadow: none;
+  margin: -6px -12px;
+  border: solid 4px #0a2d47;
+}
+
+.multi-range-slider .thumb .caption span {
+  display: none;
+}
+
+/* Styled Multi Carousel */
+.react-multi-carousel-track {
+  align-items: center;
+}

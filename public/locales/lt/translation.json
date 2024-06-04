@@ -1,0 +1,193 @@
+{
+  "headerButton": "Susisiek",
+  "supportChatButton": "Pagalba perkant žiedą",
+  "landingSection": {
+    "subtitle": "",
+    "description": "Mes suteiksime jums reikiamą informaciją ir pagalbą, kad galėtumėte efektyviai atrasti tobulą sužadėtuvių žiedą bei tuo pačiu sutaupyti.",
+    "button": "Pagalba perkant žiedą",
+    "titlePart1": "Geriau, kad",
+    "titlePart2": "",
+    "titleBold": "švytėtų",
+    "titlePart3": "akmuo,",
+    "titleCrossed": "o ne jo kaina."
+  },
+  "statisticsSection": {
+    "subtitle": "Statistika",
+    "title": "Nepermokėk",
+    "titleBold": "",
+    "description": "Dauguma pirkėjų moka net iki 30-40% daugiau už sužadėtuvių žiedą.",
+    "secondDescription": "Tai reiškia, kad pirkdami 5 000 Eur žiedą, jie paprastai permoka iki 1 500 Eur.",
+    "buton": "Pagalba perkant žiedą"
+  },
+  "comparisonSection": {
+    "subtitle": "Palygink",
+    "title": "Įsivertink, kiek gali sutaupyti",
+    "titleBold": "",
+    "tableHead": {
+      "features": "Features",
+      "retail": "Žiedas juvelyrikos salone"
+    },
+    "tableBody": {
+      "carats": "Karatai",
+      "color": "Spalva",
+      "cut": "Pjūvis",
+      "clarity": "Skaidrumas",
+      "certificate": "Sertifikatas",
+      "price": "Kaina"
+    }
+  },
+  "reviewsSection": {
+    "subtitle": "įvertinimai",
+    "titlePart1": "Mūsų klientams patinka sutaupyti",
+    "titlePart2": "",
+    "titleBold": "",
+    "reviewCard": {
+      "savings": "Sutaupė",
+      "age": "metai"
+    }
+  },
+  "footerSection": {
+    "footerHeading": {
+      "titlePart1": "Kam permokėti",
+      "titlePart2": "už sužadėtuvių",
+      "titleBold": "žiedą?",
+      "button": "Susisiek"
+    }
+  },
+  "footerLinksSection": {
+    "contacts": "Kontaktai"
+  },
+  "pricingSection": {
+    "title": "Sutaupyk",
+    "billinCycles": {
+      "forever": "",
+      "monthly": "",
+      "oneOffFee": "Vienkartinis mokestis"
+    },
+    "buttonTitles": {
+      "free": "Nemokama konsultacija",
+      "paid": "Mokama konsultacija"
+    }
+  },
+  "inquiryForm": {
+    "titles": {
+      "title": "Susisiek",
+      "subtitle": "Jei turite kokių nors klausimų, maloniai prašome užpildyti šią formą ir mes su jumis susisieksime."
+    },
+    "form": {
+      "name": {
+        "label": "Vardas",
+        "placeholder": "Įveskite savo vardą"
+      },
+      "email": {
+        "label": "El. paštas",
+        "placeholder": "Įveskite savo el. pašto adresą"
+      },
+      "phoneNumber": {
+        "label": "Telefono numeris",
+        "placeholder": "Įveskite savo telefono numerį"
+      },
+      "message": {
+        "label": "Žinutė",
+        "placeholder": "Jūsų žinutė"
+      },
+      "buttonTitle": "Siųskite"
+    }
+  },
+  "validationErrorMessages": {
+    "fieldRequired": "Laukas yra privalomas",
+    "validEmailRequired": "Įveskite galiojantį el. pašto adresą"
+  },
+  "routerPathsTitles": {
+    "home": "Pagrindinis",
+    "pricing": "Sutaupyk",
+    "searchDiamonds": "Ieškoti deimantų",
+    "contactUs": "Susisiek",
+    "company": "Įmonė",
+    "support": "Pagalba",
+    "privacyPolicy": "Privatumo politika",
+    "trustPage": "Pasitikėjimo puslapis"
+  },
+  "errorsPages": {
+    "404": {
+      "title": "Ups!",
+      "subtitle": "Panašu, kad nerandame ieškomo puslapio",
+      "description": "Būsenos kodas:",
+      "spanDescription": "404"
+    },
+    "500": {
+      "title": "Kažkas nepavyko",
+      "subtitle": "Stebime šias klaidas, bet nedvejodami kreipkitės į mus, jei atnaujinimas nepadeda išspręsti problemų.",
+      "description": "Būsenos kodas:",
+      "spanDescription": "500"
+    }
+  },
+  "diamondPage": {
+    "diamondNotFound": {
+      "title": "Deimantas nerastas",
+      "subtitle": "Apgailestaujame, bet ieškomo deimanto nepavyko rasti. Galite pabandyti atlikti paiešką mūsų duomenų bazėje spustelėję toliau esantį mygtuką."
+    },
+    "diamondDetailsSection": {
+      "title": "Deimantinė Informacija",
+      "detailsBlocksTitles": {
+        "reportDetail": "Ataskaitos Informacija",
+        "dimensions": "Matmenys",
+        "proportions": "Proporcijos",
+        "characteristics": "Caharakteristikos",
+        "detailedProperties": "Išsamios Savybės"
+      }
+    },
+    "mainSection": {
+      "toggleButtonTitle": "Nustatyti kainos perspėjimą",
+      "shippingDetails": {
+        "diamondReturn": "WizGem siūlo 30 dienų grąžinti šį deimantą",
+        "shipping": "Nemokamas ir saugus pristatymas",
+        "warranty": "Viso gyvenimo garantija",
+        "finance": "Finansavimo parinktys"
+      },
+      "mainDetails": {
+        "interactiveCertificate": "Žr. interaktyvų sertifikatą"
+      },
+      "buttonTitle": "Žiūrėti",
+      "seller": "į pardavėjo"
+    }
+  },
+  "diamondProperies": {
+    "certLaboratory": "Sertifikato Laboratorija",
+    "certificateDate": "Sertifikato Data",
+    "reportNumber": "CIA Ataskaitos Numeris",
+    "lengthWidthRatio": "Ilgio ir Pločio Santykis",
+    "measurements": "Deimantų Matavimai",
+    "carat": "Karatai",
+    "visualCarat": "Vizualiniai Karatai",
+    "tablePercentage": "Lentelės Procentinė Dalis",
+    "depthPercentage": "Gylis Procentais",
+    "culet": "Culet",
+    "pavilionDepthPercentage": "Paviljono Gylio Procentinė Dalis",
+    "pavilionAngle": "Paviljono Kampas",
+    "crownHeightPercentage": "Karūnos Aukščio Procentas",
+    "crownAngle": "Karūnos kampas",
+    "lowerHalfPercentage": "Apatinė pusė Procentinė Dalis",
+    "starLengthPercentage": "Žvaigždės ilgis Procentinė Dalis",
+    "girdlePercentage": "Girdle Procentinė Dalis",
+    "shape": "Forma",
+    "color": "Spalva",
+    "clarity": "Skaidrumas",
+    "fluorescence": "Fluorescencija",
+    "symmetry": "Simetrija",
+    "polish": "Poliravimas",
+    "cutGrade": "Pjūvio Klasė",
+    "cutScore": "Pjūvio Balas",
+    "clarityCharacteristics": "Skaidrumo Caharakteristikos",
+    "inscription": "Užrašas",
+    "comments": "Komentarai",
+    "fairPrice": "Sąžininga Kaina",
+    "seller": "Pardavėjas",
+    "estimateRange": "Apytikris diapazonas",
+    "priceDetails": "Kainos informacija"
+  },
+  "diamondTypesTitles": {
+    "labCreated": "Lab sukurtas",
+    "natural": "Natūralu"
+  }
+}
